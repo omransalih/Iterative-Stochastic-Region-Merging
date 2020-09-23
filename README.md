@@ -1,6 +1,7 @@
 # Iterative-Stochastic-Region-Merging 
 
-This code has been implemented to find some gap, all the theoretical has been used form the reference bellow. 
+This code has been implemented to Automate Skin Lesion Segmentation via Iterative
+Stochastic Region Merging, all the theoretical has been used form the reference bellow. 
 
 Reference 
 Wong, Alexander, Jacob Scharcanski, and Paul Fieguth. "Automatic skin lesion segmentation via iterative stochastic region merging.
